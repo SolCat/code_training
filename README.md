@@ -6,6 +6,7 @@ Collection of LeetCode questions.
 ## Database
 |  |
 | ------- |
+| [1155-product-sales-analysis-iii](https://github.com/SolCat/code_training/tree/master/1155-product-sales-analysis-iii) |
 | [1292-immediate-food-delivery-ii](https://github.com/SolCat/code_training/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/SolCat/code_training/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/SolCat/code_training/tree/master/1338-queries-quality-and-percentage) |
