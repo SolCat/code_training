@@ -3,7 +3,7 @@ Collection of LeetCode questions.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Database
+## Problem database
 |  |
 | ------- |
 | [1155-product-sales-analysis-iii](https://github.com/SolCat/code_training/tree/master/1155-product-sales-analysis-iii) |
